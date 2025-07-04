@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋  
+<h1 align="center">Hi👋  
 I'm Irel, an aspiring developer currently learning and building real-world projects.
 I'm excited to keep improving every day and collaborate on cool projects!</h1>
 
