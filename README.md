@@ -1,4 +1,6 @@
-<h1 align="center">Hi👋 I'm Irel, a passionate developer who loves building cool things with code!</h1>
+<h1 align="center">Hey there 👋  
+I'm Irel, an aspiring developer currently learning and building real-world projects.
+I'm excited to keep improving every day and collaborate on cool projects!</h1>
 
 ###
 
