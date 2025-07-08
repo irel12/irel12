@@ -1,6 +1,5 @@
-<h2 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  
-I'm Irel, an aspiring developer currently learning and building real-world projects.
-I'm excited to keep improving every day and collaborate on cool projects!</h2>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  
+I'm Irel, an aspiring developer currently learning and building real-world projects.</h1>
 
 ###
 
